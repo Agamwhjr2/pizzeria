@@ -110,3 +110,13 @@ body{
 	width:100px;
 	height: 80px;
 }
+img {
+width: 60px;
+height: 60px;
+}
+#PizzaBig {
+	width: 900px;
+}
+#Toppings {
+	width: 2000px;
+}
